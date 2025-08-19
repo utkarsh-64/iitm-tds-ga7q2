@@ -1,4 +1,4 @@
-    ---
+---
     marp: true
     title: ChronoDB Product Documentation
     author: Technical Writer
@@ -144,6 +144,3 @@
     **Questions?**
     
     Find the full documentation at `docs.chronodb.dev`
-    
-    </div>
-    
